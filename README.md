@@ -4,7 +4,7 @@ Used Mllk-V Arduino howto as reference (https://milkv.io/docs/duo/getting-starte
 
 1. Install arduino-milkv-duos-sd-v1.1.4 using [BalenaEtcher](https://etcher.balena.io/)
 
-https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/arduino-milkv-duos-sd-v1.1.4.img.zip
+https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/arduino-milkv-duo256m-sd-v1.1.4.img.zip
 
 and login as root/milkv
 
