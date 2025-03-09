@@ -6,6 +6,8 @@ Used Mllk-V Arduino howto as reference (https://milkv.io/docs/duo/getting-starte
 
 https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/v1.1.4/arduino-milkv-duo256m-sd-v1.1.4.img.zip
 
+and login as root/milkv
+
 2. Boot image and disable blink.sh and reboot
 
    mv /mnt/system/blink.sh /mnt/system/blink.sh_backup && sync
